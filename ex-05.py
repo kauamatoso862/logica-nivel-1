@@ -1,4 +1,5 @@
-# Frase na tela - Implemente um programa que imprima na tela a frase "O primeiro programa a gente nunca esquece!".
+# Tabela de preço - Você foi contratado por um Hortifruti pra fazer o sistema de Nota fiscal. Como primeiro passo, escreva um programa que produza a seguinte saída:
+
 print("Nota fiscal")
 print("                          ")
 print("Frutas               Valor")
